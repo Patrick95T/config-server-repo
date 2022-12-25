@@ -19,6 +19,6 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 
-spring:
+springs:
   boot:
     message: Hello Employee Service
