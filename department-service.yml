@@ -19,4 +19,4 @@ eureka:
 
 springs:
   boot:
-    message: Hello Department Service
+    message: Hello Department Service Updated Spring cloud bus demo

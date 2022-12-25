@@ -21,4 +21,4 @@ eureka:
 
 springs:
   boot:
-    message: Hello Employee Service
+    message: Hello Employee Service Updated Spring cloud bus demo
