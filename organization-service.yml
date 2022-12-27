@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: ORGANIZATION-SERVICE
   datasource:
     url: jdbc:mysql://localhost:3306/organization_db
     password: admin
